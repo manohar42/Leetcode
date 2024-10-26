@@ -11,6 +11,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Greedy
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
