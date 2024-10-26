@@ -8,17 +8,14 @@ class Solution:
         
         dummy = ListNode(0,head)
         cur = dummy
-        start = head
-        while start and start.next:
-            node1 = start
-            node2 = start.next
-            start = start.next
-            node1.next = start.next
-
+        while head and head.next:
+            node1 = head
+            node2 = head.next
+            head = head.next
+            node1.next = head.next
             node2.next = node1
             cur.next = node2
-            print(cur,start)
-            start = start.next.next
+            head = head.next.next
             cur = cur.next.next
 
         return dummy.next
