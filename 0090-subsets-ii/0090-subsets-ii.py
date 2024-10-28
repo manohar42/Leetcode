@@ -8,8 +8,7 @@ class Solution:
         n = len(nums)
         def backtrack(i):
             if i == n:
-                if sol[:] not in res:
-                    res.append(sol[:])
+                res.append(sol[:])
                 return
             
             sol.append(nums[i])
