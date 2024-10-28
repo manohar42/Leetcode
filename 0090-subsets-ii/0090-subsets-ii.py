@@ -12,10 +12,12 @@ class Solution:
                     res.append(sol[:])
                 return
             
-            backtrack(i+1)
             sol.append(nums[i])
             backtrack(i+1)
             sol.pop()
+            while i+1 < len(nums) and nums[i] == nums[i+1]:
+                i+=1
+            backtrack(i+1)
         backtrack(0)
         return res
 
