@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/manohar42/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manohar42/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manohar42/Leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -38,6 +39,7 @@
 | [0039-combination-sum](https://github.com/manohar42/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manohar42/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manohar42/Leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
