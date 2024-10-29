@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -65,9 +66,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
