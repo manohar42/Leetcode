@@ -82,4 +82,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
