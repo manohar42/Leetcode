@@ -2,7 +2,6 @@ class Solution:
     def minLength(self, s: str) -> int:
         
         stack = []
-        hashmap = {"C":"D", "A":"B"}
 
         for i in s:
             if (i == "D" or i == "B") and len(stack) > 0:
