@@ -7,10 +7,11 @@ class Solution:
         
         
         def recursion(m,n):
-            if m <0 or n<0:
-                return float('inf')
             if dp[m][n] != -1:
                 return dp[m][n]
+            if m <0 or n<0:
+                return float('inf')
+                
             if m ==0 and n == 0:
                 return grid[m][n]
             
