@@ -7,14 +7,14 @@ class Solution:
         
         
         def recursion(m,n):
-            # print(m,n)
             if m <0 or n<0:
                 return float('inf')
-            if m ==0 and n == 0:
-                return grid[m][n]
             if dp[m][n] != -1:
                 return dp[m][n]
-            dp[m][n] = (min(recursion(m-1,n),recursion(m,n-1)) + grid[m][n])
+            if m ==0 and n == 0:
+                return grid[m][n]
+            
+            dp[m][n] = grid[m][n] + min(recursion(m-1,n), recursion(m,n-1))
 
             return dp[m][n]
             
