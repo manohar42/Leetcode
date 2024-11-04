@@ -3,10 +3,8 @@ class Solution:
         
         s = ""
         n = len(word)
-        count = 0
-        for i in range(0,n):
-            if i == 0:
-                count+=1
+        count = 1
+        for i in range(1,n):
             if i > 0:
                 if word[i] == word[i-1]:
                     count+=1
@@ -15,6 +13,6 @@ class Solution:
                     count = 1
             if count > 9:
                 s+=str(count-1)+word[i-1]
-                count = count -9
+                count = count-9
         s+=str(count)+word[-1]
         return s
