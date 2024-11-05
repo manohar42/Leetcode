@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/manohar42/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manohar42/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/manohar42/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/manohar42/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/manohar42/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
