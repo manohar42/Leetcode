@@ -1,53 +1,66 @@
-class LinkedNode:
-    def __init__(self, key = -1, val = -1):
+class Node:
+
+    def __init__(self,key, val):
         self.key = key
         self.val = val
+        self.next= None
         self.prev = None
-        self.next = None
 
 class LRUCache:
+
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.cache = dict()
-        self.head = LinkedNode()
-        self.tail = LinkedNode()
-        self.head.next = self.tail
-        self.tail.prev = self.head
+       self.capacity = capacity
+       self.cache = {}
+       self.lru = Node(0,0)
+       self.mru = Node(0,0) 
+
+       self.lru.next = self.mru
+       self.mru.prev = self.lru
+
+    def remove(self,node):
+        prev, nxt = node.prev, node.next
+        prev.next, nxt.prev = nxt, prev
+
+    def insert(self, node):
+        prev, nxt = self.mru.prev, self.mru
+        prev.next = nxt.prev = node
+        node.next, node.prev = nxt,prev
         
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
+        if key in self.cache:
+            self.remove(self.cache[key])
+            self.insert(self.cache[key])
+            return self.cache[key].val
+        return -1
         
-        node = self.__evict(key)
-        self.__addToEnd(node)
-        return node.val
-
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
-            node = self.__delete(key)
-
-        node = LinkedNode(key, value)
-        self.cache[key] = node
-        self.__addToEnd(node)
-        
-        if len(self.cache) > self.capacity:
-            self.__delete(self.head.next.key)
+            # print(self.cache)
+            self.remove(self.cache[key])
     
-    def __evict(self, key) -> LinkedNode: 
-        node = self.cache[key]
-        node.prev.next = node.next
-        node.next.prev = node.prev
-        node.next = None
-        node.prev = None
-        return node
+        self.cache[key] = Node(key,value)
+        self.insert(self.cache[key])
 
-    def __delete(self, key) -> None:
-        deleteNode = self.__evict(key)
-        del deleteNode
-        del self.cache[key]
+        if len(self.cache) > self.capacity:
+            node = self.lru.next
+            self.remove(node)
+            del self.cache[node.key]
+    #     self.printList(self.lru.key)
 
-    def __addToEnd(self, node) -> None:
-        node.prev = self.tail.prev
-        node.next = self.tail
-        self.tail.prev.next = node
-        self.tail.prev = node
+    # def printList(self,node):
+        
+    #     count = 0
+    #     # print(self.cache)
+    #     while node:
+    #         count+=1
+    #         print(node.key,node.val)
+    #         node = node.next
+    #     # print("Done", count)        
+
+
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
