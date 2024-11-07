@@ -179,12 +179,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/manohar42/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/manohar42/Leetcode/tree/master/0207-course-schedule) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/manohar42/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/manohar42/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/manohar42/Leetcode/tree/master/0322-coin-change) |
@@ -222,4 +224,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
