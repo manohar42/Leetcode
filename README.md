@@ -24,6 +24,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manohar42/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manohar42/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -73,6 +74,7 @@
 | [0046-permutations](https://github.com/manohar42/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manohar42/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manohar42/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
