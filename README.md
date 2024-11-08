@@ -86,6 +86,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/manohar42/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
@@ -112,6 +113,7 @@
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manohar42/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/manohar42/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manohar42/Leetcode/tree/master/0213-house-robber-ii) |
@@ -227,9 +229,15 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
