@@ -6,17 +6,15 @@ class Solution:
         dp[1]=1
         if n ==  1:
             return dp[1]
-        dp[2]=2
+        # dp[2]=2
 
-        for i in range(3,n+1):  
+        for i in range(2,n+1):  
             count = 0
             for j in range(1,i+1):
                 left = j-1
                 right = i-j
                 count+=(dp[left]*dp[right])
-            # p.rint(dp)
             dp[i] = count
-            # print(dp)
         return dp[n]
 
 
