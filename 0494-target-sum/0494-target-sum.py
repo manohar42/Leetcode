@@ -7,13 +7,14 @@ class Solution:
         n = len(nums)
         memo = {}
         def recursion(nums,cur_sum,target,n):
-
-            if cur_sum ==  target and n == 0:
-                return 1
-            if (n, cur_sum) in memo:
-                return memo[(n, cur_sum)]
             if n < 0:
                 return 0
+            if (n, cur_sum) in memo:
+                return memo[(n, cur_sum)]
+            if cur_sum ==  target and n == 0:
+                return 1
+            
+            
             memo[(n, cur_sum)] = recursion(nums,cur_sum+nums[n-1],target, n-1) + recursion(nums,cur_sum-nums[n-1],target,n-1)
 
             return memo[(n, cur_sum)]
