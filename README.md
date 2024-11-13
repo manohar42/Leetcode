@@ -34,6 +34,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |
 | ------- |
