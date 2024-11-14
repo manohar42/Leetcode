@@ -33,6 +33,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
+| [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -190,6 +191,7 @@
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/manohar42/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0322-coin-change](https://github.com/manohar42/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
