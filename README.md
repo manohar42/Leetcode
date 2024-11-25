@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/manohar42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manohar42/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/manohar42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
