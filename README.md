@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/manohar42/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manohar42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manohar42/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/manohar42/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
