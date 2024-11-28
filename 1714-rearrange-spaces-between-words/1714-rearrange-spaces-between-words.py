@@ -6,7 +6,8 @@ class Solution:
         len_words = len(words)
 
         if len_words == 1:
-            return "".join([words[0], ' ' * spaces])
+            
+            return "".join([words, ' ' * spaces])
         
         separator = " "*(spaces // (len_words-1))
         trail = " "*(spaces % (len_words-1))
