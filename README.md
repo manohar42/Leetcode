@@ -37,6 +37,7 @@
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/manohar42/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
+| [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manohar42/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manohar42/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
