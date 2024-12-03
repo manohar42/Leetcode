@@ -18,6 +18,6 @@ class Solution:
             res.append(root.val)
             dfs(root.right)
         dfs(root)
-        print(res)
+        # print(res)
         return res[k-1]
             
