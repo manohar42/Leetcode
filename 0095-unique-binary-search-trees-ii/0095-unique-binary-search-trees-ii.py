@@ -8,7 +8,10 @@ class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
         
         
+        dp = {}
         def createTree(start,end):
+            if (start,end) in dp:
+                return dp[(start,end)]
             res = []
             if start > end:
                 res.append(None)
@@ -17,11 +20,11 @@ class Solution:
             for i in range(start,end+1):
                 left_tree = createTree(start,i-1)
                 right_tree = createTree(i+1,end)
-                
                 for j in left_tree:
                     for k in right_tree:
                         tree = TreeNode(i,j,k)
                         res.append(tree)
+            dp[(start,end)] = res
             
             return res[:]
         return createTree(1,n)
