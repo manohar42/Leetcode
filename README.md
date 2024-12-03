@@ -103,6 +103,7 @@
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/manohar42/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search
@@ -161,6 +162,7 @@
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/manohar42/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manohar42/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/manohar42/Leetcode/tree/master/0198-house-robber) |
@@ -319,6 +321,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manohar42/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/manohar42/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -327,6 +330,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manohar42/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/manohar42/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -335,6 +339,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manohar42/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/manohar42/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
