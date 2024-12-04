@@ -7,6 +7,5 @@ class Solution:
         for i in nums:
             heapq.heappush(stack,i)
             if len(stack) > k:
-                heapq.heappop(stack)
-            
-        return heapq.heappop(stack)
+                heapq.heappop(stack)       
+        return stack[0]
