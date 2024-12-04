@@ -18,8 +18,6 @@ class Solution:
                         break
                     else:
                         continue
-                
                 if check == False:
                     stack.append(asteroids[i])                
         return stack
-                        
