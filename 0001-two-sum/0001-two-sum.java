@@ -10,7 +10,6 @@ class Solution {
             if(hashmap.get(k) != null && hashmap.get(k) != i){
                 output[0] = i;
                 output[1] = hashmap.get(k);
-                System.out.println("returned from here"+output[0]);
                 return output;
             }
         }
