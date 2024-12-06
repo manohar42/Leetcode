@@ -49,6 +49,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manohar42/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -69,6 +70,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
@@ -121,6 +125,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manohar42/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
