@@ -53,6 +53,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manohar42/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manohar42/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Trie
 |  |
 | ------- |
