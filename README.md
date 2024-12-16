@@ -58,6 +58,7 @@
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manohar42/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/manohar42/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manohar42/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/manohar42/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manohar42/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manohar42/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/manohar42/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manohar42/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
