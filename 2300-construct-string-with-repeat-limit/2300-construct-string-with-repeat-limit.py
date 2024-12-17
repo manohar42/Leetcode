@@ -1,14 +1,17 @@
 class Solution:
     def repeatLimitedString(self, s: str, repeatLimit: int) -> str:
         
-        stack = []
-        dic ={}
-        for i in s:
-            dic[i] = dic.get(i,0)+1
-        heapq.heapify(stack)
-        # print(dic)
-        for i in dic:
-            heapq.heappush(stack,(-ord(i),dic[i]))
+        # stack = []
+        # dic ={}
+        # for i in s:
+        #     dic[i] = dic.get(i,0)+1
+        # heapq.heapify(stack)
+        # # print(dic)
+        # for i in dic:
+        #     heapq.heappush(stack,(-ord(i),dic[i]))
+
+        stack = [(-ord(k), v) for k, v in Counter(s).items()] 
+        heapify(stack)
         output = ""
         while stack:
             value,count = heapq.heappop(stack)
