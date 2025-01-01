@@ -236,6 +236,7 @@
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/manohar42/Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/manohar42/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/manohar42/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manohar42/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/manohar42/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [2232-adding-spaces-to-a-string](https://github.com/manohar42/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -473,4 +474,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/manohar42/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
