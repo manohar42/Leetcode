@@ -66,6 +66,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/manohar42/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manohar42/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -257,6 +258,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manohar42/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/manohar42/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/manohar42/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/manohar42/Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manohar42/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -384,6 +387,7 @@
 | [0812-rotate-string](https://github.com/manohar42/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/manohar42/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manohar42/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -438,6 +442,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/manohar42/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -496,4 +501,8 @@
 | [2358-number-of-ways-to-split-array](https://github.com/manohar42/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/manohar42/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/manohar42/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
