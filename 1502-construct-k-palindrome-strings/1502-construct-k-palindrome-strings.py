@@ -12,6 +12,6 @@ class Solution:
         for j in arr:
             if j%2 != 0:
                 count+=1
-        if count > k:
-            return False
+            if count > k:
+                return False
         return True
