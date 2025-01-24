@@ -343,6 +343,7 @@
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/manohar42/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -356,6 +357,7 @@
 | [0787-sliding-puzzle](https://github.com/manohar42/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/manohar42/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manohar42/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -368,6 +370,7 @@
 | [0207-course-schedule](https://github.com/manohar42/Leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/manohar42/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manohar42/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/manohar42/Leetcode/tree/master/3189-find-champion-ii) |
@@ -383,6 +386,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manohar42/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Sliding Window
 |  |
 | ------- |
