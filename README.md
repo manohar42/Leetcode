@@ -86,6 +86,7 @@
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
@@ -125,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manohar42/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -255,6 +257,7 @@
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/manohar42/Leetcode/tree/master/0812-rotate-string) |
