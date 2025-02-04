@@ -53,6 +53,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manohar42/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manohar42/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/manohar42/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/manohar42/Leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manohar42/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
