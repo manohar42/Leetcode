@@ -11,7 +11,6 @@ class Solution:
                 break
             operations+=1
             y = heappop(heap_nums)
-            z = min(x,y)*2 + max(x,y)
+            z = x*2 + y
             heappush(heap_nums,z)
-        # print(heap_nums)
         return operations
