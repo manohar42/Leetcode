@@ -6,10 +6,8 @@ class Solution:
         while True:
             x = heappop(nums)
             if x >= k:
-                heappush(nums,x)
-                break
+                return operations
             operations+=1
             y = heappop(nums)
             z = x*2 + y
             heappush(nums,z)
-        return operations
