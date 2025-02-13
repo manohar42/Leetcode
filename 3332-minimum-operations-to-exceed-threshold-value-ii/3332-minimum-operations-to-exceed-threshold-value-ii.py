@@ -1,16 +1,15 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
         
-        heap_nums = nums
-        heapq.heapify(heap_nums)
+        heapq.heapify(nums)
         operations = 0
         while True:
-            x = heappop(heap_nums)
+            x = heappop(nums)
             if x >= k:
-                heappush(heap_nums,x)
+                heappush(nums,x)
                 break
             operations+=1
-            y = heappop(heap_nums)
+            y = heappop(nums)
             z = x*2 + y
-            heappush(heap_nums,z)
+            heappush(nums,z)
         return operations
