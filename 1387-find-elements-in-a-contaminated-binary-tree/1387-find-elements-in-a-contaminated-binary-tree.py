@@ -6,19 +6,22 @@
 #         self.right = right
 class FindElements:
 
+
     def __init__(self, root: Optional[TreeNode]):
-        
+        self.list = []
         self.root = root
         if self.root.val != 0:
             self.root.val = 0
+            self.list.append(root.val)
         self.setValues(self.root)
-        # self.traverse(self.root)
     def setValues(self, node):
         if node.left:
             node.left.val = 2*node.val+1
+            self.list.append(node.left.val)
             self.setValues(node.left)
         if node.right:
             node.right.val = 2*node.val+2
+            self.list.append(node.right.val)
             self.setValues(node.right)
     def traverse(self, node,target):
         if node is None:
@@ -30,8 +33,8 @@ class FindElements:
         
 
     def find(self, target: int) -> bool:
-    
-        return self.traverse(self.root,target)
+        return target in self.list
+        # return self.traverse(self.root,target)
         
 
 
