@@ -104,6 +104,7 @@
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/manohar42/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/manohar42/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/manohar42/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -391,6 +392,7 @@
 | [0801-is-graph-bipartite](https://github.com/manohar42/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/manohar42/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -407,6 +409,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manohar42/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -465,6 +468,7 @@
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/manohar42/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
@@ -482,6 +486,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manohar42/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/manohar42/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/manohar42/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -495,6 +500,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manohar42/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/manohar42/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/manohar42/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
