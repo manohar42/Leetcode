@@ -52,6 +52,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/manohar42/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manohar42/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manohar42/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -205,6 +206,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/manohar42/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manohar42/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -255,6 +257,7 @@
 | [1063-best-sightseeing-pair](https://github.com/manohar42/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/manohar42/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
@@ -583,6 +586,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manohar42/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manohar42/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/manohar42/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/manohar42/Leetcode/tree/master/2145-grid-game) |
