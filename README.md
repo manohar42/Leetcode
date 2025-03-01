@@ -219,6 +219,7 @@
 | ------- |
 | [0015-3sum](https://github.com/manohar42/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/manohar42/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manohar42/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
@@ -292,6 +293,7 @@
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/manohar42/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
