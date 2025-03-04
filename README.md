@@ -215,6 +215,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/manohar42/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manohar42/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manohar42/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
