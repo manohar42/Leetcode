@@ -16,16 +16,22 @@ class Solution:
 
         min_diff = float('inf') 
         res = [-1,-1]
-        prime_list = list()
+        prev_prime = 0
         for i in range(left,right+1):
             if isPrime(i):
-                prime_list.append(i)
-
-        for i in range(1,len(prime_list)):
-
-            diff = prime_list[i] - prime_list[i-1]
-            if diff < min_diff:
-                min_diff = diff
-                res = [prime_list[i-1],prime_list[i]]
+                if prev_prime == 0:
+                    prev_prime = i
+                    continue
+                diff = i - prev_prime
+                if diff < min_diff:
+                    min_diff = diff
+                    res = [prev_prime,i]
+                prev_prime = i
+                # prime_list.append(i)
+        # for i in range(1,len(prime_list)):
+        #     diff = prime_list[i] - prime_list[i-1]
+        #     if diff < min_diff:
+        #         min_diff = diff
+        #         res = [prime_list[i-1],prime_list[i]]
         return res                
                 
