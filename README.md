@@ -92,6 +92,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manohar42/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/manohar42/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/manohar42/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/manohar42/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manohar42/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -480,6 +481,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manohar42/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3483-alternating-groups-ii](https://github.com/manohar42/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Trie
 |  |
 | ------- |
