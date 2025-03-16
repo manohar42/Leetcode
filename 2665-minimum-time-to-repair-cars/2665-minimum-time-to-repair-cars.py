@@ -2,7 +2,7 @@ class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
 
         start = 1
-        end = min(ranks)*(cars*cars)
+        end = max(ranks)*(cars*cars)
         def check(mid,ranks,cars):
             car_count = 0
             for i in range(len(ranks)):
