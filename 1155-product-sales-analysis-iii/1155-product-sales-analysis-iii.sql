@@ -5,7 +5,6 @@ from Product p join Sales s
 on p.product_id = s.product_id
 where (p.product_id,s.year)
 in (select product_id,min(year) from Sales group by product_id )
-order by p.product_id asc
 
 -- with cte as(
 --     select product_id,min(year) as min_year from Sales
