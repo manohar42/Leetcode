@@ -128,6 +128,7 @@
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
@@ -166,6 +167,7 @@
 | [0045-jump-game-ii](https://github.com/manohar42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/manohar42/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
@@ -278,6 +280,7 @@
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manohar42/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
+| [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manohar42/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -360,6 +363,7 @@
 | [0125-valid-palindrome](https://github.com/manohar42/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
+| [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/manohar42/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/manohar42/Leetcode/tree/master/0952-word-subsets) |
