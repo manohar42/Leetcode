@@ -5,7 +5,6 @@ class Solution:
         elements = set()
         sol = list()
         prev = 0
-        # print(hashmap)
         n = len(s)
         for i in range(0,n):
             current[s[i]] = current.get(s[i],0)+1
@@ -19,6 +18,7 @@ class Solution:
                     flag = False
                     break
             if flag == True:
+                e = set()
                 length = i-prev+1
                 sol.append(length)
                 prev = i+1
