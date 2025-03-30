@@ -9,12 +9,9 @@ class Solution:
         for i in range(0,n):
             current[s[i]] = current.get(s[i],0)+1
             elements.add(s[i])
-            flag = False
+            flag = True
             for e in elements:
-                if current[e] == hashmap[e]:
-                    flag = True
-                    continue
-                else:
+                if current[e] < hashmap[e]:
                     flag = False
                     break
             if flag == True:
