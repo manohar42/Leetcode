@@ -1,13 +1,16 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        hashmap = Counter(s)
-        current ={}
+        hashmap = {}
+        current = {}
+        for i in s:
+            hashmap[i] = hashmap.get(i,0)+1
+            current[i] =0
         elements = set()
         sol = list()
         prev = 0
         n = len(s)
         for i in range(0,n):
-            current[s[i]] = current.get(s[i],0)+1
+            current[s[i]] +=1
             elements.add(s[i])
             flag = True
             for e in elements:
