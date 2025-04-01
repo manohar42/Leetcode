@@ -10,9 +10,5 @@ class Solution:
                     dp[i] = max(dp[i+1],dp[i])
             else:
                 k = i+ questions[i][1]+1
-                # print(questions[i][0]+dp[k])
-                # print()
                 dp[i] = max(dp[i+1],questions[i][0]+dp[k])
-            # print(dp,i)
-        # print(dp)
-        return max(dp)
+        return dp[0]
