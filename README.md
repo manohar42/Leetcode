@@ -64,6 +64,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manohar42/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manohar42/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/manohar42/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/manohar42/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/manohar42/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manohar42/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -234,6 +235,7 @@
 | [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/manohar42/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/manohar42/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
 |  |
@@ -273,6 +275,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manohar42/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manohar42/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manohar42/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manohar42/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -349,6 +352,7 @@
 | [0029-divide-two-integers](https://github.com/manohar42/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/manohar42/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manohar42/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/manohar42/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -425,6 +429,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manohar42/Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -769,4 +774,8 @@
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/manohar42/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manohar42/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
