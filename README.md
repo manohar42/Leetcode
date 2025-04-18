@@ -390,6 +390,7 @@
 | [0014-longest-common-prefix](https://github.com/manohar42/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manohar42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/manohar42/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
