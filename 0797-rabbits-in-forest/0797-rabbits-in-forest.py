@@ -1,7 +1,6 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
         
-
         hashmap = defaultdict()
         min_count = 0
         for i in range(0,len(answers)):
@@ -9,8 +8,7 @@ class Solution:
             if answers[i]+1 == hashmap[answers[i]]:
                 min_count+= hashmap[answers[i]]
                 hashmap[answers[i]] = 0
-        # print(hashmap)
-        # print(min_count)
+            
         for i in hashmap:
             if hashmap[i]!=0:
                 min_count+=i+1
