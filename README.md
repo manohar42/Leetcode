@@ -779,6 +779,7 @@
 | [2087-confirmation-rate](https://github.com/manohar42/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/manohar42/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/manohar42/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3767-find-students-who-improved](https://github.com/manohar42/Leetcode/tree/master/3767-find-students-who-improved) |
 ## Shortest Path
 |  |
 | ------- |
