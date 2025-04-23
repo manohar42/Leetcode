@@ -773,6 +773,7 @@
 | [1462-list-the-products-ordered-in-a-period](https://github.com/manohar42/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/manohar42/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/manohar42/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/manohar42/Leetcode/tree/master/1523-capital-gainloss) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/manohar42/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/manohar42/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/manohar42/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
