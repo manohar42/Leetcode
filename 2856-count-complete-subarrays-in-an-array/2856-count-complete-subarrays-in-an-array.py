@@ -6,7 +6,6 @@ class Solution:
         right = 0
         distinct_count = len(set(nums))
         for i in range(0,len(nums)):
-            # print(hashmap)
             if i>0:
                 hashmap[nums[i-1]]-=1
                 if hashmap[nums[i-1]] == 0:
