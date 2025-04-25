@@ -282,6 +282,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manohar42/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/manohar42/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manohar42/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/manohar42/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/manohar42/Leetcode/tree/master/0069-sqrtx) |
@@ -401,6 +402,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manohar42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manohar42/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/manohar42/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/manohar42/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
@@ -462,6 +464,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/manohar42/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manohar42/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/manohar42/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
