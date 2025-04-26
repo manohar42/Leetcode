@@ -281,6 +281,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manohar42/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/manohar42/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/manohar42/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manohar42/Leetcode/tree/master/0050-powx-n) |
@@ -334,12 +335,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manohar42/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/manohar42/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manohar42/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/manohar42/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/manohar42/Leetcode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/manohar42/Leetcode/tree/master/2050-count-good-numbers) |
