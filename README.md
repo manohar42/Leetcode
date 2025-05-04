@@ -55,6 +55,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manohar42/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/manohar42/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manohar42/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/manohar42/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/manohar42/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manohar42/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -158,6 +159,7 @@
 | [0952-word-subsets](https://github.com/manohar42/Leetcode/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/manohar42/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manohar42/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manohar42/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manohar42/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -533,6 +535,7 @@
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/manohar42/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/manohar42/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manohar42/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manohar42/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/manohar42/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manohar42/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
