@@ -376,6 +376,7 @@
 | [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/manohar42/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/manohar42/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manohar42/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/manohar42/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/manohar42/Leetcode/tree/master/1063-best-sightseeing-pair) |
