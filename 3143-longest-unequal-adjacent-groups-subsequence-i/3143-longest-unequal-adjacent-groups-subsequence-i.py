@@ -5,7 +5,6 @@ class Solution:
         sequence_1 = []
         value = 0
         n = len(groups)
-        print(n)
         for i in range(0,n):
             if value == groups[i]:
                 sequence_0.append(i)
@@ -13,18 +12,14 @@ class Solution:
                     value = 0
                 else:
                     value = 1
-        # print(sequence_0)
         value = 1
         for i in range(0,n):
-            # print(value,groups[i])
             if value == groups[i]:
                 sequence_1.append(i)
                 if value ==1:
                     value = 0
                 else:
                     value = 1
-        # print(sequence_1)
-
         sequence = sequence_1 if len(sequence_1) > len(sequence_0) else sequence_0
 
         res = []
