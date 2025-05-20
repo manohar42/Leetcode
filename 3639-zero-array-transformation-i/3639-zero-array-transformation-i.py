@@ -3,8 +3,7 @@ class Solution:
 
         array = [0]*len(nums)
         n = len(nums)
-        for i in queries:
-            left,right = i[0],i[1]
+        for left,right in queries:
             array[left] -=1
             if right+1 < n:
                 array[right+1] +=1
