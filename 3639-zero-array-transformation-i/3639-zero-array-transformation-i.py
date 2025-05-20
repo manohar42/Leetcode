@@ -1,8 +1,9 @@
 class Solution:
     def isZeroArray(self, nums: List[int], queries: List[List[int]]) -> bool:
 
-        array = [0]*len(nums)
+        
         n = len(nums)
+        array = [0]*n
         for left,right in queries:
             array[left] -=1
             if right+1 < n:
