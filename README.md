@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manohar42/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/manohar42/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manohar42/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
@@ -154,6 +155,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manohar42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/manohar42/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/manohar42/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/manohar42/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
@@ -524,6 +526,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/manohar42/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/manohar42/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/manohar42/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
