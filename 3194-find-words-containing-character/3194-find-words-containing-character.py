@@ -3,9 +3,9 @@ class Solution:
         
         res = []
         for i in range(0,len(words)):
-            for j in words[i]:
-                if j == x:
-                    res.append(i)
-                    break
+            s = set(words[i])
+            if x in s:
+                res.append(i)
+        
         return res
                     
