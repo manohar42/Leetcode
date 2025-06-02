@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manohar42/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/manohar42/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/manohar42/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manohar42/Leetcode/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/manohar42/Leetcode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/manohar42/Leetcode/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/manohar42/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
