@@ -65,6 +65,7 @@
 | [1364-tuple-with-same-product](https://github.com/manohar42/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manohar42/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manohar42/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/manohar42/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -630,6 +631,7 @@
 | [1036-rotting-oranges](https://github.com/manohar42/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manohar42/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manohar42/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manohar42/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manohar42/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -646,6 +648,7 @@
 | [0801-is-graph-bipartite](https://github.com/manohar42/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/manohar42/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/manohar42/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manohar42/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manohar42/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/manohar42/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manohar42/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
