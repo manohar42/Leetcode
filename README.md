@@ -207,6 +207,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/manohar42/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/manohar42/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/manohar42/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manohar42/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manohar42/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manohar42/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manohar42/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -238,6 +239,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/manohar42/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manohar42/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manohar42/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manohar42/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/manohar42/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/manohar42/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/manohar42/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manohar42/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/manohar42/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/manohar42/Leetcode/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manohar42/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -516,6 +519,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manohar42/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manohar42/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manohar42/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manohar42/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/manohar42/Leetcode/tree/master/3447-clear-digits) |
 ## Combinatorics
 |  |
@@ -578,6 +582,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manohar42/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manohar42/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manohar42/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manohar42/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manohar42/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Counting
