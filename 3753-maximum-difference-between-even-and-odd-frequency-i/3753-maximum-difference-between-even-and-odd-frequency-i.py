@@ -11,5 +11,5 @@ class Solution:
                 max_freq = i
             if i%2 == 0 and i < min_freq and i!=0:
                 min_freq = i
-        print(max_freq,min_freq)
+        # print(max_freq,min_freq)
         return max_freq-min_freq 
