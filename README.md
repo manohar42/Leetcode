@@ -99,6 +99,7 @@
 | [2329-maximum-product-after-k-increments](https://github.com/manohar42/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2358-number-of-ways-to-split-array](https://github.com/manohar42/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manohar42/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manohar42/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manohar42/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/manohar42/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manohar42/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -237,6 +238,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/manohar42/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/manohar42/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/manohar42/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manohar42/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/manohar42/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manohar42/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -272,6 +274,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manohar42/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manohar42/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manohar42/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manohar42/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
