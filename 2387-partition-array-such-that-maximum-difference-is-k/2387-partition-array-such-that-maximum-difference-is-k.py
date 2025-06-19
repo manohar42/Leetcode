@@ -2,7 +2,7 @@ class Solution:
     def partitionArray(self, nums: List[int], k: int) -> int:
         
         nums.sort()
-        res = []
+        count = 0
         left = 0
         right = 1
         n = len(nums)
@@ -10,8 +10,8 @@ class Solution:
             if nums[right] - nums[left] <=k:
                 right+=1
             else:
-                res.append(nums[left:right])
+                count+=1
                 left = right
         if left!= right:
-            res.append(nums[left:])
-        return len(res)
+            count+=1
+        return count
