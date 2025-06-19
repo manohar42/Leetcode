@@ -12,6 +12,7 @@ class Solution:
             else:
                 count+=1
                 left = right
+                right+=1
         if left!= right:
             count+=1
         return count
