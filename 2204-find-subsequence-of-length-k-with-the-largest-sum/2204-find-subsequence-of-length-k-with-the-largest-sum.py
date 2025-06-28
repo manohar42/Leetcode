@@ -9,9 +9,7 @@ class Solution:
         res = []
         while len(heaplist):
             res.append(heapq.heappop(heaplist))
-            # print(res)
-        # print(res)
         res.sort(key=lambda x:x[1])
-        # print(res)
-        return [idx for idx,val in res]
+        
+        return [val for val,idx in res]
 
