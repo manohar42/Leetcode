@@ -40,6 +40,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
@@ -171,6 +172,7 @@
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
@@ -268,6 +270,7 @@
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/manohar42/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -615,6 +618,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manohar42/Leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/manohar42/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -721,6 +725,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manohar42/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/manohar42/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manohar42/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
