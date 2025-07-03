@@ -4,16 +4,15 @@ class Solution:
         char= ""
         word = "a"
         j = 0
-        for i in range(0,k):
+        while len(word) < k:
             n = len(word)
             while j < n:
-                s=ord(word[j])+1
-                if s > 122:
-                    s= 97
-                char+=chr(s)
+                if ord(word[j])+1 > 122:
+                    char+="a"
+                else:
+                    char+=chr(ord(word[j])+1)
+
                 j+=1
             word+=char
-            if len(word) > k:
-                break
             
         return word[k-1]
