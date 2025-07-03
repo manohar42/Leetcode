@@ -1,12 +1,11 @@
 class Solution:
     def kthCharacter(self, k: int) -> str:
         
-        s= ""
+        char= ""
         word = "a"
+        j = 0
         for i in range(0,k):
-            char = ""
             n = len(word)
-            j = 0
             while j < n:
                 s=ord(word[j])+1
                 if s > 122:
