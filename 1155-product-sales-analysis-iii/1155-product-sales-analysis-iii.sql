@@ -1,17 +1,10 @@
 # Write your MySQL query statement below
 
-select p.product_id, s.year as first_year,s.quantity as quantity, s.price
-from Product p join Sales s
-on p.product_id = s.product_id
-where (p.product_id,s.year)
-in (select product_id,min(year) from Sales group by product_id )
+with cte as (
+select product_id, min(year) as first_year
+from Sales
+group by product_id)
 
--- with cte as(
---     select product_id,min(year) as min_year from Sales
---     group by product_id
--- )
-
--- select s.product_id, s.year as first_year,s.quantity as quantity, s.price
--- from sales s join
--- cte as c on c.product_id = s.product_id 
--- and c.min_year = s.year
+select s.product_id, c.first_year, s.quantity, s.price
+from Sales s join cte c
+on s.product_id = c.product_id and s.year = c.first_year
