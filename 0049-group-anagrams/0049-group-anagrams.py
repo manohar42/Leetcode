@@ -2,20 +2,19 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
         hashmap = {}
-        Output_list = []
+
         for i in strs:
+
             s= list(i)
 
-            s= sorted(s)
-            s = "".join(s)
-            if s in hashmap:
-                hashmap[s].append(i)
+            s.sort()
+            j = ''.join(s)
+            if j in hashmap:
+                hashmap[j].append(i)
             else:
-                hashmap[s] = [i]
-        
+                hashmap[j] = [i]
+        result = []
         for i in hashmap:
-            Output_list.append(hashmap[i])
-        return Output_list
+            result.append(hashmap[i])
+        return result
             
-              
-        
