@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/manohar42/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/manohar42/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manohar42/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/manohar42/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manohar42/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manohar42/Leetcode/tree/master/0200-number-of-islands) |
@@ -332,6 +333,7 @@
 | [0069-sqrtx](https://github.com/manohar42/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manohar42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manohar42/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/manohar42/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -394,6 +396,7 @@
 | [0075-sort-colors](https://github.com/manohar42/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manohar42/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manohar42/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manohar42/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manohar42/Leetcode/tree/master/0344-reverse-string) |
