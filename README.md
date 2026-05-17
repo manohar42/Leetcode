@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/manohar42/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manohar42/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/manohar42/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/manohar42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/manohar42/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/manohar42/Leetcode/tree/master/0049-group-anagrams) |
@@ -396,6 +397,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/manohar42/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manohar42/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/manohar42/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manohar42/Leetcode/tree/master/0125-valid-palindrome) |
@@ -436,6 +438,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/manohar42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/manohar42/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/manohar42/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -555,6 +558,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/manohar42/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -852,6 +856,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
