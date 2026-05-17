@@ -5,7 +5,7 @@ class Solution:
         left = height[0]
         right_max = [height[-1] for i in range(0,len(height))]
         right = height[-1]
-        result = []
+        # result = []
 
         for i in range(1,len(height)):
             
@@ -20,12 +20,12 @@ class Solution:
                 right = height[i]
             else:
                 right_max[i] = right
-        for i in range(0,len(height)):
-            result.append(min(left_max[i],right_max[i]))
+        # for i in range(0,len(height)):
+        #     result.append()
         answer = 0
 
         for i in range(0,len(height)):
-            answer+=result[i]-height[i]
+            answer+=min(left_max[i],right_max[i])-height[i]
         
         # print(left_max)
         # print(right_max)
