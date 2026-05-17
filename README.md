@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manohar42/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/manohar42/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manohar42/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/manohar42/Leetcode/tree/master/0039-combination-sum) |
@@ -234,6 +235,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/manohar42/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/manohar42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/manohar42/Leetcode/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
@@ -392,6 +394,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/manohar42/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manohar42/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/manohar42/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0088-merge-sorted-array) |
