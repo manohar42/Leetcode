@@ -566,6 +566,7 @@
 | [0020-valid-parentheses](https://github.com/manohar42/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/manohar42/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -795,6 +796,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
