@@ -1,13 +1,17 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        stack = []
+        stack = []  # Now we ONLY store indices, not tuples
         n = len(temperatures)
-        res = [0]*n
-        stack.append((temperatures[0],0))
-        for i in range(1,n):
-            while stack and stack[-1][0] < temperatures[i]:
-                res[stack[-1][1]] = i-stack[-1][1]
-                stack.pop()
-            stack.append((temperatures[i],i))
+        res = [0] * n
         
+        # We can start from 0 and let the loop handle everything
+        for i in range(n):
+            # Compare current temp with the temp at the index stored at top of stack
+            while stack and temperatures[stack[-1]] < temperatures[i]:
+                prev_index = stack.pop()
+                res[prev_index] = i - prev_index
+            
+            # Append just the index
+            stack.append(i)
+            
         return res
