@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/manohar42/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/manohar42/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/manohar42/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manohar42/Leetcode/tree/master/0322-coin-change) |
@@ -185,6 +186,7 @@
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/manohar42/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0567-permutation-in-string](https://github.com/manohar42/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -285,6 +287,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manohar42/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manohar42/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manohar42/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/manohar42/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/manohar42/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -343,6 +346,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manohar42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manohar42/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manohar42/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/manohar42/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/manohar42/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -371,6 +375,7 @@
 | [0096-unique-binary-search-trees](https://github.com/manohar42/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manohar42/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/manohar42/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/manohar42/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/manohar42/Leetcode/tree/master/0670-maximum-swap) |
@@ -487,6 +492,7 @@
 | [0078-subsets](https://github.com/manohar42/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manohar42/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/manohar42/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manohar42/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
