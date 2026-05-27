@@ -52,6 +52,7 @@
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/manohar42/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0695-max-area-of-island](https://github.com/manohar42/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -191,6 +192,7 @@
 | [0567-permutation-in-string](https://github.com/manohar42/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/manohar42/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0768-partition-labels](https://github.com/manohar42/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/manohar42/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -293,6 +295,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/manohar42/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/manohar42/Leetcode/tree/master/0876-hand-of-straights) |
@@ -493,6 +496,7 @@
 | [0090-subsets-ii](https://github.com/manohar42/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manohar42/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/manohar42/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/manohar42/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manohar42/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/manohar42/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manohar42/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
