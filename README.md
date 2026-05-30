@@ -120,6 +120,7 @@
 | [2465-shifting-letters-ii](https://github.com/manohar42/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manohar42/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/manohar42/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2540-minimum-common-value](https://github.com/manohar42/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2551-apply-operations-to-an-array](https://github.com/manohar42/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -226,6 +227,7 @@
 | [2434-design-a-number-container-system](https://github.com/manohar42/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manohar42/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manohar42/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/manohar42/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manohar42/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -359,6 +361,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manohar42/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manohar42/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2540-minimum-common-value](https://github.com/manohar42/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2586-longest-square-streak-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manohar42/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/manohar42/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -432,6 +435,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/manohar42/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manohar42/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/manohar42/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2540-minimum-common-value](https://github.com/manohar42/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2551-apply-operations-to-an-array](https://github.com/manohar42/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manohar42/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manohar42/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
