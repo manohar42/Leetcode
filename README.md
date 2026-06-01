@@ -96,6 +96,7 @@
 | [2107-find-unique-binary-string](https://github.com/manohar42/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/manohar42/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manohar42/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manohar42/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2145-grid-game](https://github.com/manohar42/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manohar42/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -267,6 +268,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/manohar42/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manohar42/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2126-destroying-asteroids](https://github.com/manohar42/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manohar42/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/manohar42/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/manohar42/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/manohar42/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -310,6 +312,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2126-destroying-asteroids](https://github.com/manohar42/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manohar42/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manohar42/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manohar42/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
