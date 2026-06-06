@@ -4,8 +4,8 @@ class Solution:
         right_sum = sum(nums)
         answer = [0]*len(nums)
         for i in range(0,len(nums)):
-            answer[i] = abs(right_sum-nums[i]-left_sum)
             right_sum-=nums[i]
+            answer[i] = abs(right_sum-left_sum)
             left_sum+=nums[i]
         
         return answer
