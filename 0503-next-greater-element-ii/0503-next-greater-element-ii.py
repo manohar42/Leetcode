@@ -4,11 +4,7 @@ class Solution:
         res = [-1]*len(nums)
         stack = []
         for i in range(0,2*len(nums)):
-            if i>= len(nums):
-                i-=len(nums)
-            # if len(stack) == 0:
-            #     stack.append(i)
-            #     continue
+            i = i%len(nums)
             while len(stack)> 0 and nums[stack[-1]]<nums[i]:
                 res[stack[-1]] = nums[i]
                 stack.pop()
