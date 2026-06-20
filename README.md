@@ -461,6 +461,7 @@
 | [0002-add-two-numbers](https://github.com/manohar42/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/manohar42/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/manohar42/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -834,6 +835,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0707-design-linked-list](https://github.com/manohar42/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manohar42/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
