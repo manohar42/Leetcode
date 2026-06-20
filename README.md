@@ -49,6 +49,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/manohar42/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manohar42/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/manohar42/Leetcode/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/manohar42/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/manohar42/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manohar42/Leetcode/tree/master/0621-task-scheduler) |
@@ -604,6 +605,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/manohar42/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manohar42/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/manohar42/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -908,6 +910,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/manohar42/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/manohar42/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
