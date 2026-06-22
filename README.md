@@ -607,6 +607,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/manohar42/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manohar42/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/manohar42/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/manohar42/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/manohar42/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -839,6 +840,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/manohar42/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/manohar42/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/manohar42/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/manohar42/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/manohar42/Leetcode/tree/master/0817-design-hashmap) |
@@ -1009,6 +1011,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/manohar42/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/manohar42/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manohar42/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
