@@ -81,6 +81,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manohar42/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manohar42/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manohar42/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manohar42/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manohar42/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -673,6 +674,7 @@
 | [0778-reorganize-string](https://github.com/manohar42/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/manohar42/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/manohar42/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2164-two-best-non-overlapping-events](https://github.com/manohar42/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manohar42/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/manohar42/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -809,6 +811,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/manohar42/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/manohar42/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/manohar42/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manohar42/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manohar42/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manohar42/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1016,17 +1019,20 @@
 | [0225-implement-stack-using-queues](https://github.com/manohar42/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/manohar42/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/manohar42/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manohar42/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2434-design-a-number-container-system](https://github.com/manohar42/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/manohar42/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/manohar42/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2868-continuous-subarrays](https://github.com/manohar42/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 | Problem Name | Difficulty |
