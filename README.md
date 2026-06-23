@@ -89,6 +89,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manohar42/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/manohar42/Leetcode/tree/master/1656-count-good-triplets) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/manohar42/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/manohar42/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manohar42/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -272,6 +273,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/manohar42/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/manohar42/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manohar42/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/manohar42/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2126-destroying-asteroids](https://github.com/manohar42/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manohar42/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/manohar42/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -615,6 +617,7 @@
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/manohar42/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manohar42/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manohar42/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -924,6 +927,7 @@
 | [0739-daily-temperatures](https://github.com/manohar42/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/manohar42/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manohar42/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/manohar42/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manohar42/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manohar42/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Divide and Conquer
