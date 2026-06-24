@@ -1,20 +1,19 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         
-        res = []
+        result = []
 
-        def backtrack(l,n,k,arr):
-            
-            if len(arr) == k:
-                res.append(arr[:])
+        def backtrack(start, current):
+
+            if len(current) == k:
+                # print(start)
+                result.append(current[:])
                 return
-            if l == n:
-                return
-            arr.append(l+1)
-            backtrack(l+1,n,k,arr)
-            arr.pop()
-            backtrack(l+1,n,k,arr)
             
-        
-        backtrack(0,n,k,[])
-        return res
+            for i in range(start,n+1):
+                current.append(i)
+                backtrack(i+1,current)                
+                current.pop()
+            
+        backtrack(1,[])
+        return result
