@@ -1,29 +1,27 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        
+        result = []
         candidates.sort()
-        res = []
-        sol = []
-        n = len(candidates)
-        if sum(candidates) < target:
-            return []
-        def backtrack(i,cur):
-            if sum(cur[:]) == target:
-                res.append(cur[:])
+        def backtrack(start,value,curr):
+
+            if value == target:
+                result.append(curr[:])
+            elif value > target:
                 return
-            if sum(cur[:]) > target or i==n:
-                return
-            
-            cur.append(candidates[i])
-            backtrack(i+1, cur)
-            cur.pop()
-            while i+1 < len(candidates) and candidates[i] == candidates[i+1]:
-                i=i+1
-            backtrack(i+1,cur)
-                
-            
+            else:
+                for i in range(start,len(candidates)):
+                    if i > start and candidates[i] == candidates[i-1]:
+                        continue
+                    if candidates[i] > target:
+                        return
+                    curr.append(candidates[i])
+                    value+=candidates[i]
+                    backtrack(i+1, value, curr)
+                    curr.pop()
+                    value-=candidates[i]
+                    
 
 
-           
-        backtrack(0,[])
-        return sorted(res)
+        backtrack(0,0,[])
+        return result
+
