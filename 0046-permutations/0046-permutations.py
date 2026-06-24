@@ -1,18 +1,23 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         
-        plist = []
+        visited = [False]*len(nums)
+        result = []
+        def backtrack(start,current):
 
-        def permutation(nums,pos,plist):
+            if len(current) == len(nums):
 
-            if pos == len(nums)-1:
-                plist.append(nums.copy())
+                result.append(current[:])
                 return
-
-            for i in range(pos,len(nums)):
-                nums[i],nums[pos] = nums[pos],nums[i]
-                permutation(nums,pos+1,plist)
-                nums[i],nums[pos] = nums[pos],nums[i]
             
-        permutation(nums,0,plist)
-        return plist        
+            for i in range(0,len(nums)):
+                if visited[i] == True:
+                    continue
+                else:
+                    visited[i] = True
+                    current.append(nums[i])
+                    backtrack(start,current)
+                    current.pop()
+                    visited[i] = False
+        backtrack(0,[])
+        return result
