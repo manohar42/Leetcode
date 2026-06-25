@@ -11,6 +11,8 @@ class Solution:
                 return
             else:
                 for i in range(start,len(candidates)):
+                    if candidates[i] > target:
+                        continue
                     value+=candidates[i]
                     curr.append(candidates[i])
                     backtrack(i,value,curr)
